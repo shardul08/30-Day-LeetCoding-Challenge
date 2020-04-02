@@ -6,3 +6,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Single Number](https://leetcode.com/problems/single-number/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/136_Single_Number.cpp)
+
+## Day 2
+[Happy Number](https://leetcode.com/problems/happy-number/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/202_Happy_Number.cpp)
