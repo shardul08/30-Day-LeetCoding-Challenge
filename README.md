@@ -16,3 +16,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/53_Maximum_Subarray.cpp)
+
+## Day 4
+[Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/283_Move_Zeroes.cpp)
