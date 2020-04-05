@@ -21,3 +21,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/283_Move_Zeroes.cpp)
+
+## Day 5
+[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp)
