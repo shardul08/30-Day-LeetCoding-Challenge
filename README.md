@@ -26,3 +26,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp)
+
+## Day 6
+[Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/49_Group_Anagrams.cpp)
