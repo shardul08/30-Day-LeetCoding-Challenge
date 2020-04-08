@@ -31,3 +31,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/49_Group_Anagrams.cpp)
+
+## Day 7
+[Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%201/Counting_Elements.cpp)
