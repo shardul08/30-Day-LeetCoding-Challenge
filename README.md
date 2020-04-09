@@ -42,3 +42,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/876_Middle_of_the_Linked_List.cpp)
+
+### Day 9
+[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/844_Backspace_String_Compare.cpp)
