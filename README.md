@@ -47,3 +47,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/844_Backspace_String_Compare.cpp)
+
+### Day 10
+[Min Stack](https://leetcode.com/problems/min-stack/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/155_Min_Stack.cpp)
