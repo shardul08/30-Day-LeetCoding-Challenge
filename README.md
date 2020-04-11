@@ -52,3 +52,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Min Stack](https://leetcode.com/problems/min-stack/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/155_Min_Stack.cpp)
+
+### Day 11
+[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/543_Diameter_of_Binary_Tree.cpp)
