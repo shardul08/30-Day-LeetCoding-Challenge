@@ -57,3 +57,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/543_Diameter_of_Binary_Tree.cpp)
+
+### Day 12
+[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/1046_Last_Stone_Weight.cpp)
