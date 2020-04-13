@@ -62,3 +62,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/1046_Last_Stone_Weight.cpp)
+
+### Day 13
+[Contigous Array](https://leetcode.com/problems/contiguous-array/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/525_Contiguous_Array.cpp)
