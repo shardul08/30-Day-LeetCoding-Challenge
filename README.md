@@ -67,3 +67,9 @@ My solutions to the 30-Day LeetCoding Challenge
 [Contigous Array](https://leetcode.com/problems/contiguous-array/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/525_Contiguous_Array.cpp)
+
+
+### Day 14
+[Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/Perform_String_Shifts.cpp)
