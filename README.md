@@ -68,7 +68,6 @@ My solutions to the 30-Day LeetCoding Challenge
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%202/525_Contiguous_Array.cpp)
 
-
 ### Day 14
 [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
 
@@ -79,3 +78,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/238_Product_of_Array_Except_Self.cpp)
+
+### Day 16
+[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/678_Valid_Parenthesis_String.cpp)
