@@ -83,3 +83,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/678_Valid_Parenthesis_String.cpp)
+
+### Day 17
+[Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/200_Number_of_Islands.cpp)
