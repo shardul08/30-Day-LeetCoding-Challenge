@@ -88,3 +88,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/200_Number_of_Islands.cpp)
+
+### Day 18
+[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/64_Minimum_Path_Sum.cpp)
