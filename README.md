@@ -93,3 +93,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/64_Minimum_Path_Sum.cpp)
+
+### Day 19
+[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/33_Search_in_Rotated_Sorted_Array.cpp)
