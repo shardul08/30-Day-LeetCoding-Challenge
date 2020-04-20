@@ -98,3 +98,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/33_Search_in_Rotated_Sorted_Array.cpp)
+
+### Day 20
+[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/1008_Construct_Binary_Search_Tree_from_Preorder_Travresal.cpp)
