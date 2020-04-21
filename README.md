@@ -103,3 +103,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/1008_Construct_Binary_Search_Tree_from_Preorder_Travresal.cpp)
+
+### Day 21
+[Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/Leftmost_Column_with_at_Least_One.cpp)
