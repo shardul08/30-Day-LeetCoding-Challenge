@@ -108,3 +108,9 @@ My solutions to the 30-Day LeetCoding Challenge
 [Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%203/Leftmost_Column_with_at_Least_One.cpp)
+
+## Week 4
+### Day 22
+[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/560_Subarray_Sum_Equals_K.cpp)
