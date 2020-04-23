@@ -114,3 +114,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/560_Subarray_Sum_Equals_K.cpp)
+
+### Day 23
+[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/201_Bitwise_AND_of_Numbers_Range.cpp)
