@@ -119,3 +119,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/201_Bitwise_AND_of_Numbers_Range.cpp)
+
+### DAy 24
+[LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/146_LRU_Cache.cpp)
