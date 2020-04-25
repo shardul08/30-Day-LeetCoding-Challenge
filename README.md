@@ -120,7 +120,12 @@ My solutions to the 30-Day LeetCoding Challenge
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/201_Bitwise_AND_of_Numbers_Range.cpp)
 
-### DAy 24
+### Day 24
 [LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/146_LRU_Cache.cpp)
+
+### Day 25
+[Jump Game](https://leetcode.com/problems/jump-game/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/55_Jump_Game.cpp)
