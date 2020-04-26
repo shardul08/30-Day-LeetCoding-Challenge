@@ -129,3 +129,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Jump Game](https://leetcode.com/problems/jump-game/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/55_Jump_Game.cpp)
+
+### Day 26
+[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/1143_Longest_Common_Subsequence.cpp)
