@@ -134,3 +134,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/1143_Longest_Common_Subsequence.cpp)
+
+### Day 27
+[Maximal Square](https://leetcode.com/problems/maximal-square/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/221_Maximal_Square.cpp)
