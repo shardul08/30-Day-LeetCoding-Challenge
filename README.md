@@ -139,3 +139,8 @@ My solutions to the 30-Day LeetCoding Challenge
 [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/221_Maximal_Square.cpp)
+
+### Day 28
+[First Unique Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/First_Unique_Number.cpp)
