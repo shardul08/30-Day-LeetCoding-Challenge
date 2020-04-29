@@ -144,3 +144,9 @@ My solutions to the 30-Day LeetCoding Challenge
 [First Unique Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)
 
 [Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%204/First_Unique_Number.cpp)
+
+## Week 5
+### Day 29
+[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+[Solution](https://github.com/shardul08/30-Day-LeetCoding-Challenge/blob/master/Week%205/124_Binary_Tree_Maximum_Path_Sum.cpp)
